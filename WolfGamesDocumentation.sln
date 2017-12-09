@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "WolfGamesSiteDocumentation", "WolfGamesSiteDocumentation\WolfGamesSiteDocumentation.shfbproj", "{09E4FD0C-E1F1-4264-8318-6B3F4471826C}"
 EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "WolfGamesGenericCodeDocumentation", "WolfGamesGenericCodeDocumentation\WolfGamesGenericCodeDocumentation.shfbproj", "{813DD4AA-3D2D-4B42-8BF1-AA9B8864F05F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{09E4FD0C-E1F1-4264-8318-6B3F4471826C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09E4FD0C-E1F1-4264-8318-6B3F4471826C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09E4FD0C-E1F1-4264-8318-6B3F4471826C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813DD4AA-3D2D-4B42-8BF1-AA9B8864F05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813DD4AA-3D2D-4B42-8BF1-AA9B8864F05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813DD4AA-3D2D-4B42-8BF1-AA9B8864F05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813DD4AA-3D2D-4B42-8BF1-AA9B8864F05F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

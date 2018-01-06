@@ -92,6 +92,18 @@
     <Content Include="icons\Help.png" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\..\..\..\.nuget\packages\ewsoftware.shfb\2017.5.15\tools\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NWebsec.AspNetCore.Core, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\.nuget\packages\nwebsec.aspnetcore.core\1.1.0\lib\netstandard1.3\NWebsec.AspNetCore.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NWebsec.AspNetCore.Middleware, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\.nuget\packages\nwebsec.aspnetcore.middleware\1.1.0\lib\netstandard1.3\NWebsec.AspNetCore.Middleware.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Swashbuckle.AspNetCore.SwaggerGen, Version=1.1.0.0, Culture=neutral, PublicKeyToken=d84d99fb0135530a">
       <HintPath>..\..\..\..\.nuget\packages\swashbuckle.aspnetcore.swaggergen\1.1.0\lib\netstandard1.6\Swashbuckle.AspNetCore.SwaggerGen.dll</HintPath>
       <Private>True</Private>
